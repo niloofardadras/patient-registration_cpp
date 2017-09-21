@@ -1,5 +1,5 @@
 //============================================================================
-// Name        : bme506_l3.cpp
+// Name        : patient.cpp
 // Author      : niloofar hosseinidadras
 // Version     :
 // Copyright   : Your copyright notice
