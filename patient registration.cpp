@@ -23,7 +23,7 @@ using namespace std;
 	{
 	cout<<patient[i]<<"\n";
 	}*/
-	for (i=0;i<20;++i)//function to calculate the new patient array by the formula given in the lab
+	for (i=0;i<20;++i)//function to calculate the new patient array by a formula 
 	{
 	patient[i]=patient[i]+patient[i]/(i+1);
 	cout<<"new patient is: "<<patient[i]<<"\n";
