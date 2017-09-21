@@ -3,7 +3,7 @@
 // Author      : niloofar hosseinidadras
 // Version     :
 // Copyright   : Your copyright notice
-// Description : Hello World in C++, Ansi-style
+// Description : Patient registration, Ansi-style
 //============================================================================
 
 #include <iostream>
